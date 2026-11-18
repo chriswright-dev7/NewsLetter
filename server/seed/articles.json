@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "welcome-to-signal-and-noise",
+    "title": "Welcome to Signal & Noise: What We Cover and Why",
+    "excerpt": "A short tour of the newsletter: the beats we follow, how often we publish, and what each membership tier unlocks.",
+    "body": "Signal & Noise is a weekly newsletter about technology, business and the people building both. Every issue tries to answer one question: what actually changed this week, and does it matter?\n\n## What you'll get\n\nOn Tuesdays we publish a free roundup that anyone can read. On Thursdays, members receive a deeper analysis piece. Once a month, Insider members get a long-form briefing with our forecasts and the reasoning behind them.\n\n## How tiers work\n\nBasic members unlock the weekly analysis archive. Premium members add our reported features and field notes. Insider members get everything, including the monthly briefing and early access to new series.\n\n## A note on independence\n\nWe are reader-funded. There are no sponsored posts, and there never will be. If something we write is wrong, we'll correct it at the top of the article, not in a footnote.",
+    "author": "The Editors",
+    "category": "Announcements",
+    "cover_image_url": "",
+    "required_tier": 0,
+    "status": "published",
+    "published_at": "2026-11-02T13:00:00Z"
+  },
+  {
+    "slug": "quiet-return-of-long-form-email",
+    "title": "The Quiet Return of Long-Form Email",
+    "excerpt": "Feeds got faster and shorter. Inboxes got slower and longer. Why readers keep paying for the slow lane.",
+    "body": "For a decade the prevailing wisdom was that attention spans were shrinking and everything had to be shorter. Then something odd happened: readers started paying for 3,000-word emails.\n\n## The inbox as a reading room\n\nAn inbox is one of the few places on the internet where content waits for you rather than scrolling past. That patience changes how people read. Open rates matter less than the fact that the piece is still there on Sunday morning.\n\n## Why it works for writers\n\nEmail gives writers a direct relationship with readers. There's no algorithm deciding who sees an issue. That predictability makes it possible to plan a body of work rather than chase a trend.\n\n## The catch\n\nLong-form only works when it respects the reader's time. The issues that retain subscribers are the ones that could not have been shorter.",
+    "author": "Maya Okafor",
+    "category": "Media",
+    "cover_image_url": "",
+    "required_tier": 1,
+    "status": "published",
+    "published_at": "2026-11-05T13:00:00Z"
+  },
+  {
+    "slug": "five-charts-chip-market",
+    "title": "Five Ways to Read This Year's Chip Market",
+    "excerpt": "Supply, demand, and the gap between what companies announce and what they actually build.",
+    "body": "Semiconductor headlines tend to swing between shortage and glut. The underlying story is usually slower and more interesting than either.\n\n## 1. Announcements are not capacity\n\nA new fab announcement is the start of a multi-year process. Track construction milestones, not press releases.\n\n## 2. Demand is lumpy\n\nA handful of very large buyers can move the whole market. When one of them pauses, the ripple shows up months later.\n\n## 3. Packaging is the new bottleneck\n\nAdvanced packaging capacity has become as strategic as the chips themselves.\n\n## 4. Inventory tells the truth\n\nDistributor inventory levels are a better leading indicator than earnings-call optimism.\n\n## 5. Policy shapes geography\n\nSubsidies change where capacity lands, but they rarely change how long it takes.",
+    "author": "Daniel Reyes",
+    "category": "Analysis",
+    "cover_image_url": "",
+    "required_tier": 1,
+    "status": "published",
+    "published_at": "2026-11-07T13:00:00Z"
+  },
+  {
+    "slug": "churn-is-the-only-metric",
+    "title": "Inside the Subscription Economy: Churn Is the Only Metric",
+    "excerpt": "Acquisition gets the attention. Retention pays the bills. A practical look at why subscribers leave and what brings them back.",
+    "body": "Every subscription business eventually discovers the same arithmetic: you cannot out-acquire a leaky bucket.\n\n## Voluntary vs. involuntary churn\n\nNot every cancellation is a decision. A meaningful share of lost subscribers simply had a card expire. Fixing payment recovery is the least glamorous and most reliable retention win.\n\n## The first 30 days\n\nThe riskiest period for any subscriber is the first month. Onboarding that delivers one clear win early does more than any discount at cancellation time.\n\n## Pricing tiers as a retention tool\n\nA well-designed tier ladder gives people somewhere to go other than the exit. Downgrades are a feature: a Basic subscriber is worth more than a former Premium one.\n\n## What to measure\n\nTrack cohort retention, not just monthly churn. A single blended number hides whether your newest customers are behaving better or worse than your oldest.",
+    "author": "Priya Natarajan",
+    "category": "Business",
+    "cover_image_url": "",
+    "required_tier": 2,
+    "status": "published",
+    "published_at": "2026-11-09T13:00:00Z"
+  },
+  {
+    "slug": "field-notes-small-teams-ship-weekly",
+    "title": "Field Notes: How Small Teams Ship Every Week",
+    "excerpt": "We spent a month with four teams of fewer than ten people. Their habits had less to do with tools than you'd think.",
+    "body": "We asked four small product teams a simple question: how do you ship something every single week? Their answers rhymed.\n\n## Cut scope, not corners\n\nEach team had a ritual for shrinking work until it fit in a week. One called it 'the haircut meeting.' The quality bar stayed fixed; the feature list did not.\n\n## Write it down once\n\nEvery team kept a single running document per project. Decisions, open questions and links lived in one place, which made handoffs nearly free.\n\n## Demo, don't report\n\nStatus meetings were replaced by short demos of working software. If it couldn't be shown, it wasn't done.\n\n## Protect the maker time\n\nAll four teams kept at least two meeting-free days a week. None of them described this as a policy; it was simply how they worked.",
+    "author": "Sam Whitfield",
+    "category": "Reporting",
+    "cover_image_url": "",
+    "required_tier": 2,
+    "status": "published",
+    "published_at": "2026-11-11T13:00:00Z"
+  },
+  {
+    "slug": "insider-briefing-2027-predictions",
+    "title": "Insider Briefing: Our 2027 Predictions, Ranked by Confidence",
+    "excerpt": "Ten calls for next year, each with a confidence score and the evidence that would change our minds.",
+    "body": "Predictions are only useful if they can be wrong. Each call below includes a confidence level and the signal that would make us revise it.\n\n## High confidence\n\nBundled subscriptions will keep growing as consumers push back on managing a dozen separate bills. We'd revise this if major bundles start losing members to standalone services.\n\n## Medium confidence\n\nMore publishers will introduce a low-cost reading tier below their main plan. We'd revise this if early experiments show heavy cannibalization of higher tiers.\n\n## Low confidence\n\nMicropayments for single articles will finally find a durable niche. We've been wrong about this before, and we'll say so plainly if we're wrong again.\n\n## How we'll keep score\n\nIn December 2027 we'll publish a scorecard grading every call. Insider members will get it first.",
+    "author": "The Editors",
+    "category": "Insider",
+    "cover_image_url": "",
+    "required_tier": 3,
+    "status": "published",
+    "published_at": "2026-11-12T13:00:00Z"
+  },
+  {
+    "slug": "pricing-experiments-wed-run",
+    "title": "Pricing Experiments We'd Run Tomorrow",
+    "excerpt": "Draft: a menu of low-risk pricing tests for subscription businesses of any size.",
+    "body": "This piece is still in progress.\n\n## Annual-first checkout\n\nShow the annual price first and the monthly price second.\n\n## Tier naming\n\nTest descriptive names against aspirational ones.",
+    "author": "Priya Natarajan",
+    "category": "Business",
+    "cover_image_url": "",
+    "required_tier": 2,
+    "status": "draft",
+    "published_at": null
+  }
+]

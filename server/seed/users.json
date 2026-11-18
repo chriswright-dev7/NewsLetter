@@ -1,0 +1,7 @@
+[
+  { "email": "admin@demo.test", "firstName": "Ada", "lastName": "Admin", "role": "admin", "planId": null },
+  { "email": "trial@demo.test", "firstName": "Tess", "lastName": "Trial", "role": "user", "planId": 1 },
+  { "email": "monthly@demo.test", "firstName": "Morgan", "lastName": "Monthly", "role": "user", "planId": 2 },
+  { "email": "annual@demo.test", "firstName": "Avery", "lastName": "Annual", "role": "user", "planId": 4 },
+  { "email": "nosub@demo.test", "firstName": "Nico", "lastName": "Lapsed", "role": "user", "planId": null }
+]

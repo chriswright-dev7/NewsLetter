@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Free Trial", "description": "Try Basic free for two weeks", "price": 0, "period_length": 14, "period_unit": "day", "access_tier": 1, "is_active": true },
+  { "id": 2, "name": "Monthly", "description": "Premium, billed monthly", "price": 9.99, "period_length": 1, "period_unit": "month", "access_tier": 2, "is_active": true },
+  { "id": 3, "name": "6 Months", "description": "Premium, save 17%", "price": 49.99, "period_length": 6, "period_unit": "month", "access_tier": 2, "is_active": true },
+  { "id": 4, "name": "Annual", "description": "Insider, save 25%", "price": 89.99, "period_length": 12, "period_unit": "month", "access_tier": 3, "is_active": true }
+]
